@@ -1,4 +1,4 @@
-# CodeAlpha_WeatherDashboard
+This is a project to create a weather dashboard. This project is based on html css and js. the js file is covered within the html file in the script part in the head portion.
 
 Main Page
 ![Screenshot 2024-03-17 123244](https://github.com/pshrutika/CodeAlpha_WeatherDashboard/assets/119094755/33a8113c-68c9-457a-8c25-8052e00757f6)
